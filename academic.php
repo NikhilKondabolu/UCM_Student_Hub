@@ -72,7 +72,6 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 <nav>
     <a href="Home.php">Home</a>    
     <a href="accommodation.php" class="accommodation"><span>Accommodation</span></a>
-
     <a href="requestrides.php" class="requestrides"><span>Request Rides</span></a>
     <a href="providerides.php" class="providerides"><span>Provide Rides</span></a>
     <a href="calendar.php" class="calendar"><span>Rides Calendar</span></a>
